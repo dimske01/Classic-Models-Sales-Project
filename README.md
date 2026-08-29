@@ -1,4 +1,6 @@
-# Classic-Models-Sales-Project
+ Classic Models Sales & Profitability Dashboard
+
+An end-to-end data analysis project: from raw sales data in SQL, through exploratory analysis in Excel, to a full interactive Power BI dashboard. Built on the Classic Models dataset, it answers real business questions — which markets and products drive the most profit, and how customer purchasing behavior changes over time.
 
 ## About this project
 
@@ -59,20 +61,19 @@ I also added Month-over-Month % and Year-to-Date calculations to the sales table
 ## Dashboard screenshots
 
 ### Page 1
-![Sales Overview](dashboard/page1_sales_overview.png)
+![Sales Overview](page1_sales_overview.png)
 
 ### Page 2
-![KPI Dashboard](dashboard/page2_kpi_dashboard.png)
+![KPI Dashboard](page2_kpi_dashboard.png)
 
 ## What's in this repo
 
 - `sql/` – all SQL queries
 - `excel/` – pivot table workbooks
-- `dashboard/` – screenshots
+- `page1_sales_overview.png`, `page2_kpi_dashboard.png` – dashboard screenshots
 - `powerbi/sales_data_for_power_bi.pbix` – the Power BI file (needs Power BI Desktop to open)
 
 ## Notes
 
 I built this while doing a Udemy Data Analysis course, using it as a way to practice going from raw data all the way to a finished dashboard.
-[README.md](https://github.com/user-attachments/files/31564382/README.md)
 
