@@ -59,6 +59,26 @@ I also added Month-over-Month % and Year-to-Date calculations to the sales table
 - Top country by profit: USA ($1.37M), then France ($1.18M)
 - Top product line by profit: Classic Cars ($1.5M)
 
+## What I noticed
+
+- The USA is the strongest market by far — highest sales and profit
+- Classic Cars is the most profitable product line
+- Sales and profit differ a lot between countries, products and customers, so there's room for more targeted decisions
+- Looking at the MoM and YTD numbers, sales go up and down through the year — some months are clearly stronger than others
+- A small group of customers and products bring in a lot more revenue than the rest
+
+## What the company could do with this
+
+1. **Put more effort into strong markets** — more marketing and sales focus on the USA and other high-performing countries
+2. **Keep pushing the profitable lines** — make sure Classic Cars stays well-stocked and promoted
+3. **Look after the best customers** — the highest-revenue customers are worth keeping happy with offers or loyalty perks
+4. **Check the weaker products/markets** — figure out if it's pricing, cost, or demand holding them back
+5. **Keep an eye on MoM/YTD** — the dashboard makes it easy to spot changes early and react faster
+
+## Conclusion
+
+This project shows how raw sales data can turn into something actually useful for a business. Going through SQL, Excel and Power BI made it possible to see clearly which markets, products and customers matter most — the kind of thing that helps with real decisions about sales, marketing and where to focus.
+
 ## Dashboard screenshots
 
 ### Page 1
